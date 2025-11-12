@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>92PAK GIFT CODE – Unlock Rewards | Play Smarter</title>
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      background: #0d0d0d;
-      color: #fff;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      text-align: center;
-      padding: 50px 20px 20px;
-      animation: fadeInDown 1s ease-in-out;
-    }
     h1 {
       color: #ff4747;
       font-size: 2.2em;
